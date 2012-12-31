@@ -1,0 +1,234 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D0D95B3A1476D4FC00035DDE /* Graph.hpp in Headers */ = {isa = PBXBuildFile; fileRef = D0D95B301476D4FC00035DDE /* Graph.hpp */; };
+		D0D95B3B1476D4FC00035DDE /* Graphics.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D0D95B311476D4FC00035DDE /* Graphics.cpp */; };
+		D0D95B3C1476D4FC00035DDE /* Graphics.hpp in Headers */ = {isa = PBXBuildFile; fileRef = D0D95B321476D4FC00035DDE /* Graphics.hpp */; };
+		D0D95B3D1476D4FC00035DDE /* MotionPlanner.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D0D95B331476D4FC00035DDE /* MotionPlanner.cpp */; };
+		D0D95B3E1476D4FC00035DDE /* MotionPlanner.hpp in Headers */ = {isa = PBXBuildFile; fileRef = D0D95B341476D4FC00035DDE /* MotionPlanner.hpp */; };
+		D0D95B3F1476D4FC00035DDE /* Point.hpp in Headers */ = {isa = PBXBuildFile; fileRef = D0D95B351476D4FC00035DDE /* Point.hpp */; };
+		D0D95B401476D4FC00035DDE /* Simulator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D0D95B361476D4FC00035DDE /* Simulator.cpp */; };
+		D0D95B411476D4FC00035DDE /* Simulator.hpp in Headers */ = {isa = PBXBuildFile; fileRef = D0D95B371476D4FC00035DDE /* Simulator.hpp */; };
+		D0D95B421476D4FC00035DDE /* Utils.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D0D95B381476D4FC00035DDE /* Utils.cpp */; };
+		D0D95B431476D4FC00035DDE /* Utils.hpp in Headers */ = {isa = PBXBuildFile; fileRef = D0D95B391476D4FC00035DDE /* Utils.hpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		D0D95B291476D4ED00035DDE /* libcarMP.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = libcarMP.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0D95B301476D4FC00035DDE /* Graph.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = Graph.hpp; path = ../../src/Graph.hpp; sourceTree = "<group>"; };
+		D0D95B311476D4FC00035DDE /* Graphics.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Graphics.cpp; path = ../../src/Graphics.cpp; sourceTree = "<group>"; };
+		D0D95B321476D4FC00035DDE /* Graphics.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = Graphics.hpp; path = ../../src/Graphics.hpp; sourceTree = "<group>"; };
+		D0D95B331476D4FC00035DDE /* MotionPlanner.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = MotionPlanner.cpp; path = ../../src/MotionPlanner.cpp; sourceTree = "<group>"; };
+		D0D95B341476D4FC00035DDE /* MotionPlanner.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = MotionPlanner.hpp; path = ../../src/MotionPlanner.hpp; sourceTree = "<group>"; };
+		D0D95B351476D4FC00035DDE /* Point.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = Point.hpp; path = ../../src/Point.hpp; sourceTree = "<group>"; };
+		D0D95B361476D4FC00035DDE /* Simulator.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Simulator.cpp; path = ../../src/Simulator.cpp; sourceTree = "<group>"; };
+		D0D95B371476D4FC00035DDE /* Simulator.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = Simulator.hpp; path = ../../src/Simulator.hpp; sourceTree = "<group>"; };
+		D0D95B381476D4FC00035DDE /* Utils.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Utils.cpp; path = ../../src/Utils.cpp; sourceTree = "<group>"; };
+		D0D95B391476D4FC00035DDE /* Utils.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = Utils.hpp; path = ../../src/Utils.hpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D0D95B261476D4ED00035DDE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D0D95B1E1476D4ED00035DDE = {
+			isa = PBXGroup;
+			children = (
+				D0D95B301476D4FC00035DDE /* Graph.hpp */,
+				D0D95B311476D4FC00035DDE /* Graphics.cpp */,
+				D0D95B321476D4FC00035DDE /* Graphics.hpp */,
+				D0D95B331476D4FC00035DDE /* MotionPlanner.cpp */,
+				D0D95B341476D4FC00035DDE /* MotionPlanner.hpp */,
+				D0D95B351476D4FC00035DDE /* Point.hpp */,
+				D0D95B361476D4FC00035DDE /* Simulator.cpp */,
+				D0D95B371476D4FC00035DDE /* Simulator.hpp */,
+				D0D95B381476D4FC00035DDE /* Utils.cpp */,
+				D0D95B391476D4FC00035DDE /* Utils.hpp */,
+				D0D95B2A1476D4ED00035DDE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D0D95B2A1476D4ED00035DDE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D0D95B291476D4ED00035DDE /* libcarMP.dylib */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		D0D95B271476D4ED00035DDE /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0D95B3A1476D4FC00035DDE /* Graph.hpp in Headers */,
+				D0D95B3C1476D4FC00035DDE /* Graphics.hpp in Headers */,
+				D0D95B3E1476D4FC00035DDE /* MotionPlanner.hpp in Headers */,
+				D0D95B3F1476D4FC00035DDE /* Point.hpp in Headers */,
+				D0D95B411476D4FC00035DDE /* Simulator.hpp in Headers */,
+				D0D95B431476D4FC00035DDE /* Utils.hpp in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		D0D95B281476D4ED00035DDE /* carMP */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D0D95B2D1476D4ED00035DDE /* Build configuration list for PBXNativeTarget "carMP" */;
+			buildPhases = (
+				D0D95B251476D4ED00035DDE /* Sources */,
+				D0D95B261476D4ED00035DDE /* Frameworks */,
+				D0D95B271476D4ED00035DDE /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = carMP;
+			productName = carMP;
+			productReference = D0D95B291476D4ED00035DDE /* libcarMP.dylib */;
+			productType = "com.apple.product-type.library.dynamic";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D0D95B201476D4ED00035DDE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = "Johns Hopkins University";
+			};
+			buildConfigurationList = D0D95B231476D4ED00035DDE /* Build configuration list for PBXProject "carMP" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = D0D95B1E1476D4ED00035DDE;
+			productRefGroup = D0D95B2A1476D4ED00035DDE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D0D95B281476D4ED00035DDE /* carMP */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D0D95B251476D4ED00035DDE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0D95B3B1476D4FC00035DDE /* Graphics.cpp in Sources */,
+				D0D95B3D1476D4FC00035DDE /* MotionPlanner.cpp in Sources */,
+				D0D95B401476D4FC00035DDE /* Simulator.cpp in Sources */,
+				D0D95B421476D4FC00035DDE /* Utils.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		D0D95B2B1476D4ED00035DDE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		D0D95B2C1476D4ED00035DDE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		D0D95B2E1476D4ED00035DDE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				EXECUTABLE_PREFIX = lib;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		D0D95B2F1476D4ED00035DDE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				EXECUTABLE_PREFIX = lib;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D0D95B231476D4ED00035DDE /* Build configuration list for PBXProject "carMP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D0D95B2B1476D4ED00035DDE /* Debug */,
+				D0D95B2C1476D4ED00035DDE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D0D95B2D1476D4ED00035DDE /* Build configuration list for PBXNativeTarget "carMP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D0D95B2E1476D4ED00035DDE /* Debug */,
+				D0D95B2F1476D4ED00035DDE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D0D95B201476D4ED00035DDE /* Project object */;
+}

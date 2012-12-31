@@ -1,0 +1,320 @@
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/FinalProject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/FinalProject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building CXX object CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:7:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp: In function ‘int main(int, char**)’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:14: error: ‘info_sizeof_dptr’ was not declared in this scope
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/FinalProject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/FinalProject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o   -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:11:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c: In function ‘main’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: ‘info_sizeof_dptr’ undeclared (first use in this function)
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: (Each undeclared identifier is reported only once
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: for each function it appears in.)
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building CXX object CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:7:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp: In function ‘int main(int, char**)’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:14: error: ‘info_sizeof_dptr’ was not declared in this scope
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o   -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:11:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c: In function ‘main’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: ‘info_sizeof_dptr’ undeclared (first use in this function)
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: (Each undeclared identifier is reported only once
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: for each function it appears in.)
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building CXX object CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:7:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp: In function ‘int main(int, char**)’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:14: error: ‘info_sizeof_dptr’ was not declared in this scope
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o   -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:11:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c: In function ‘main’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: ‘info_sizeof_dptr’ undeclared (first use in this function)
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: (Each undeclared identifier is reported only once
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: for each function it appears in.)
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building CXX object CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:7:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp: In function ‘int main(int, char**)’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:14: error: ‘info_sizeof_dptr’ was not declared in this scope
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o   -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:11:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c: In function ‘main’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: ‘info_sizeof_dptr’ undeclared (first use in this function)
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: (Each undeclared identifier is reported only once
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: for each function it appears in.)
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building CXX object CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:7:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp: In function ‘int main(int, char**)’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:14: error: ‘info_sizeof_dptr’ was not declared in this scope
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o   -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:11:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c: In function ‘main’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: ‘info_sizeof_dptr’ undeclared (first use in this function)
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: (Each undeclared identifier is reported only once
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: for each function it appears in.)
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building CXX object CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:7:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp: In function ‘int main(int, char**)’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:14: error: ‘info_sizeof_dptr’ was not declared in this scope
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o   -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:11:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c: In function ‘main’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: ‘info_sizeof_dptr’ undeclared (first use in this function)
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: (Each undeclared identifier is reported only once
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: for each function it appears in.)
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building CXX object CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:7:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp: In function ‘int main(int, char**)’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:14: error: ‘info_sizeof_dptr’ was not declared in this scope
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o   -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:11:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c: In function ‘main’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: ‘info_sizeof_dptr’ undeclared (first use in this function)
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: (Each undeclared identifier is reported only once
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: for each function it appears in.)
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building CXX object CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:7:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp: In function ‘int main(int, char**)’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:14: error: ‘info_sizeof_dptr’ was not declared in this scope
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o   -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:11:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c: In function ‘main’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: ‘info_sizeof_dptr’ undeclared (first use in this function)
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: (Each undeclared identifier is reported only once
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: for each function it appears in.)
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building CXX object CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:7:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp: In function ‘int main(int, char**)’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:14: error: ‘info_sizeof_dptr’ was not declared in this scope
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o   -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:11:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c: In function ‘main’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: ‘info_sizeof_dptr’ undeclared (first use in this function)
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: (Each undeclared identifier is reported only once
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: for each function it appears in.)
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building CXX object CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:7:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp: In function ‘int main(int, char**)’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp:14: error: ‘info_sizeof_dptr’ was not declared in this scope
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+"/Applications/CMake 2.6-4.app/Contents/bin/cmake" -E cmake_progress_report "/Users/Chou/Documents/Dropbox/2011jhuFall/Alg sensor-based robot/finalproject/carmp/CMakeFiles/CMakeTmp/CMakeFiles" 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o   -c "/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c"
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:11:30: error: CMakeCompilerABI.h: No such file or directory
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c: In function ‘main’:
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: ‘info_sizeof_dptr’ undeclared (first use in this function)
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: (Each undeclared identifier is reported only once
+/Applications/CMake 2.6-4.app/Contents/share/cmake-2.6/Modules/CMakeCCompilerABI.c:22: error: for each function it appears in.)
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
